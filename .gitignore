@@ -1,0 +1,15 @@
+# Python bytecode cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller / build artefacts
+build/
+dist/
+*.spec
+
+# Editor / OS junk
+.vscode/
+.idea/
+*.swp
+.DS_Store
